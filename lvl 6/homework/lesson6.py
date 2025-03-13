@@ -2,11 +2,11 @@ celsius = "6"
 fahrenheit = "2"("celsious")
 kelvin ="3" ("celsious")
 
-5+5==10
-7-3==4
-2*2==4
-10%20==5
-10/3==3
+print("5+5")
+print("7-3")
+print("2*2")
+print("10%20")
+print("10/3")
 
 
 

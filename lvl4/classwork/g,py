@@ -1,0 +1,8 @@
+level = 0
+level = 10
+level=+1
+level=+1
+level=+1
+print("final value of level:")
+
+#teqsturi faili aris outputi da gamosaxuleba ki inputi.
