@@ -1,0 +1,5 @@
+input(" Enter your name ")
+input(" Enter your surname ")
+input(" Enter your age ")
+input(" Enter your occupation ")
+input(" Enter your hobby ")
